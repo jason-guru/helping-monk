@@ -1,2 +1,2 @@
 # helping-monk
-Some helper function
+Some Vue.js helper function
